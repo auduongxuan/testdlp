@@ -9,6 +9,4 @@ confidential
 Khoa
 khoas
 Khoa
-test
-test1234567893
-test123456s
+Khoa tét
